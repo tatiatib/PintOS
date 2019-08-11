@@ -1,0 +1,10 @@
+*.o
+*.pyc
+*.swp
+*~
+.DS_Store
+pintos/**/build
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+.vscode/
